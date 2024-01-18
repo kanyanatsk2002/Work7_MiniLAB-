@@ -1,0 +1,14 @@
+h1 {
+  color: green;
+}
+
+body {
+  text-align: center;
+  background-color: rgb(254, 245, 234);
+  font-size: large;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
